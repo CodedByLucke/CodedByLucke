@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codedbylucke&label=Profile%20views&color=0e75b6&style=flat" alt="codedbylucke" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codedbylucke" alt="codedbylucke" /></a> </p>
-
 - 🔭 I’m currently working on **Personal React projects**
 
 - 🌱 I’m currently learning **React,Andular and Vue**
 
 - 👯 I’m looking to collaborate on **Python projects**
 
-- 🤝 I’m looking for help with **Vue**
+- 🤝 I’m looking for help with **ten**
 
 - 💬 Ask me about **React**
 
@@ -31,5 +29,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codedbylucke&show_icons=true&locale=en&layout=compact" alt="codedbylucke" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codedbylucke&show_icons=true&locale=en" alt="codedbylucke" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codedbylucke&" alt="codedbylucke" /></p>
