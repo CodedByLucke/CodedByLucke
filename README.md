@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Python projects**
 
-- 🤝 I’m looking for help with **ten**
+- 🤝 I’m looking for help with **Vue**
 
 - 💬 Ask me about **React**
 
